@@ -1,0 +1,9 @@
+.DS_S*
+__pycache__/
+HW*-solution.ipynb
+*_utils.py
+*_utils.pyc
+*.py.*
+*.pyc.*
+data/image/lfw
+!HW12_utils.py
